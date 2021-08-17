@@ -1,0 +1,161 @@
+{
+  "pc": "com.wahyuabadiafra.apps",
+  "version_app": "1.0",
+  "link_new_app": "null",
+  "name_godev": "Star+Mod",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter":  "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "",
+      "inter": "",
+      "mrec": ""
+    }
+  ],
+  "list_mod": [
+    {
+      "id": "1",
+      "tittle": "wahyu abadi m18",
+      "link_file": "https://archive.org/download/wahyu-abadi-m-18_20210816_2225/wahyu-abadi-m-18_20210816_2225_archive.torrent",
+      "link_livery1": "https://archive.org/download/wahyu-abadi-m-18/NEW%20WAHYU%20ABADI%20M18%20by%20afra%20apps.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-m-18_202108/__ia_thumb.jpg"
+    },
+    {
+      "id": "2",
+      "tittle": "Wahyu Abadi Interior Racing",
+      "link_file": "https://archive.org/download/interior-racing-afra-app/interior-racing-afra-app_archive.torrent",
+      "link_livery1": "https://archive.org/download/livery-whyu-abadi-interior-racing-afra-app/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-interor-racing/__ia_thumb.jpg"
+    },
+    {
+      "id": "3",
+      "tittle": "Wahyu Abadi BK1BK4",
+      "link_file": "https://archive.org/download/canter-gayor-edit-bemper-blakang/canter-gayor-edit-bemper-blakang_archive.torrent",
+      "link_file": "https://archive.org/download/b-1-bk-4-terpal-kotak/b-1-bk-4-terpal-kotak_archive.torrent",
+      "link_file": "https://archive.org/download/b-1-bk-4-terpal-cincing/b-1-bk-4-terpal-cincing_archive.torrent",
+      "link_livery1": "https://archive.org/download/wahyu-abadi-by-afra-app/Wahyu%20Abadi%20By%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-bk-1bk-4/__ia_thumb.jpg"
+    },
+    {
+      "id": "4",
+      "tittle": "Wahyu Abadi Pengamen Mbois",
+      "link_file": "https://archive.org/download/pengamen-mbois-afra-app/pengamen-mbois-afra-app_archive.torrent",
+      "link_livery1": "https://archive.org/download/gayor_202108/GAYOR.png",
+      "link_livery2": "https://archive.org/download/kotak_202108/KOTAK.png",
+      "link_livery3": "https://archive.org/download/no-terpal/NO%20TERPAL.png",
+      "link_livery4": "https://archive.org/download/segi-3/SEGI3.png",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-pengamen-mbois/__ia_thumb.jpg"
+    },
+    {
+      "id": "5",
+      "tittle": "Wahyu Abadi Muat Beras",
+      "link_file": "https://archive.org/download/wahyu-muat-beras-by-afra-app/wahyu-muat-beras-by-afra-app_archive.torrent",
+      "link_livery1": "https://archive.org/download/wahyu-abadi-by-afra-app_20210817/Wahyu%20Abadi%20by%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",    
+      "images": "https://archive.org/download/wa-abadi-muat-beras/__ia_thumb.jpg"
+    },
+    {
+      "id": "6",
+      "tittle": "Wahyu Abadi Ceper Racing",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-velg-ceper-racing_202108/new-wahyu-abadi-velg-ceper-racing_202108_archive.torrent",
+      "link_livery1": "https://archive.org/download/ceper-racing-by-afra-app/ceper%20racing%20by%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-ceper-racing/__ia_thumb.jpg"
+    },
+    {
+      "id": "7",
+      "tittle": "Wahyu Abadi Full Stiker",
+      "link_file": "https://archive.org/download/wa-full-stiker-by-afra-app/wa-full-stiker-by-afra-app_archive.torrent",
+      "link_livery1": "https://archive.org/download/wa-full-stiker-by-afra-app_202108/wa%20full%20stiker%20by%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-full-stiker/__ia_thumb.jpg"
+    },
+    {
+      "id": "8",
+      "tittle": "Wahyu Abadi V2",
+      "link_file": "https://archive.org/download/wahyu-abadi-v-2-by-afra-app/wahyu-abadi-v-2-by-afra-app_archive.torrent",
+      "link_livery1": "https://archive.org/download/livery-wahyu-abadi-v-2-by-afra-app/Livery%20Wahyu%20Abadi%20v2%20by%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-v-2/__ia_thumb.jpg"
+    },
+    {
+      "id": "9",
+      "tittle": "Wahyu Abadi Tanpa Bak",
+      "link_file": "https://archive.org/download/wahyu-abadi-tanpa-bak/wahyu-abadi-tanpa-bak_archive.torrent",
+      "link_livery1": "https://archive.org/download/livery-tanpa-bak-by-afra-app/livery%20tanpa%20bak%20by%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-tanpa-bak/__ia_thumb.jpg"
+    },
+    {
+      "id": "10",
+      "tittle": "Wahyu Abadi V4",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-v-4/new-wahyu-abadi-v-4_archive.torrent",
+      "link_livery1": "",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-v-4/__ia_thumb.jpg"
+    },
+    {
+      "id": "11",
+      "tittle": "Wahyu Abadi V5",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-gayor/new-wahyu-abadi-gayor_archive.torrent",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-kotak/new-wahyu-abadi-kotak_archive.torrent",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-no-terpal/new-wahyu-abadi-no-terpal_archive.torrent",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-segitiga/new-wahyu-abadi-segitiga_archive.torrent",
+      "link_livery1": "https://archive.org/download/livery-new-wahyu-abadi-v-5-by-afra-app/Livery%20New%20Wahyu%20Abadi%20v5%20by%20afra%20app.png",
+      "link_livery2": "",
+      "link_livery3": "",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-v-5/__ia_thumb.jpg"
+    },
+    {
+      "id": "12",
+      "tittle": "Wahyu Abadi Air Mancur",
+      "link_file": "https://archive.org/download/wahyu-abadi-air-mancur/wahyu-abadi-air-mancur_archive.torrent",
+      "link_livery1": "https://archive.org/download/livery-x-play-kembar/Livery%20X%20Play%20Kembar.png",
+      "link_livery2": "https://archive.org/download/terpal-segitiga/Terpal%20Segitiga.Png",
+      "link_livery3": "https://archive.org/download/wahyu-abadi-no-tpl/WAHYU%20ABADI%20NO%20TPL.png",
+      "link_livery4": "",
+      "link_livery5": "",      
+      "images": "https://archive.org/download/wa-air-mancur/__ia_thumb.jpg"
+      "images": "https://archive.org/download/wa-abadi-muat-beras/__ia_thumb.jpg"
+    }
+  ]
+}
